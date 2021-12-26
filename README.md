@@ -1,3 +1,38 @@
+# Curso de Laravel 8
+## cursodesarrolloweb
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=75FYScxTBiY&list=PLd3a4dr8oUsDAjQa8T0eKSyOxUCoiMVxO)
+
+### Lista de aulas  
+
+Aula 01 - Introdução  
+Aula 02 - Nosso ecossistema  
+Aula 03 - Instalação  
+Aula 04 - Rodando o servidor  
+Aula 08 - Introdução ao sistema de rotas  
+Aula 09 - Introdução aos controladores  
+Aula 10 - Artisan, a linha de comandos do Laravel  
+Aula 11 - Uso de métodos em Controladores  
+Aula 12 - Variáveis de ambiente  
+Aula 13 - Uso correto de variáveis de ambiente  
+Aula 16 - Introdução às migrations  
+Aula 17 - Criar uma migration simples para a tabela de Posts  
+Aula 18 - Adicionar foreign key user_id a tabela de posts  
+Aula 19 - Modificar colunas utilizando migrations e DoctrineDBAL  
+Aula 20 - Introdução aos modelos em Laravel e criar modelo Post  
+Aula 21 - Trabalhando com Factories e Seeds  
+Aula 22 - Eloquent, relações e novo modelo Phone  
+Aula 23 - Tinker, REPL para Laravel  
+Aula 24 - Adicionar um sistema de autenticação completo ao projeto  
+Aula 25 - Verificação de email para os novos registros  
+Aula 27 - Iniciar formulário de contato, rotas, controlador e navegação  
+Aula 28 - Pacote para gerar formulários com BladeX e criar formulário contato  
+Aula 29 - Validar o formulário de contato e traduzir os erros  
+Aula 30 - Mailable com Markdown para enviar formulário de contato por email  
+Aula 31 - Renderizar no browser e enviar por email Mailables  
+Aula 32 - Mostrar mensagens flash com componente Flash Messages  
+Aula 33 - Validar o formulário de contato com uma classe FormRequest  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
