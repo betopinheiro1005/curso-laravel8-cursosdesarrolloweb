@@ -1,7 +1,7 @@
 # Curso de Laravel 8
 ## cursodesarrolloweb
 
-## Instalação de dependências
+### Instalação de dependências
 
 ```bash
 composer install
