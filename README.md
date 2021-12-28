@@ -1,9 +1,13 @@
 # Curso de Laravel 8
 ## cursodesarrolloweb
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=75FYScxTBiY&list=PLd3a4dr8oUsDAjQa8T0eKSyOxUCoiMVxO)
+## Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=75FYScxTBiY&list=PLd3a4dr8oUsDAjQa8T0eKSyOxUCoiMVxO)  
 
 Aula 01 - Introdução  
 Aula 02 - Nosso ecossistema  
